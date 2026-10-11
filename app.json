@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "VKU Study Room",
+    "slug": "vku-study-room",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "vkustudy",
+    "android": {
+      "package": "com.vku.studyroom",
+      "versionCode": 1,
+      "permissions": [
+        "VIBRATE"
+      ]
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8e32f404-af19-4016-87b2-1b75c9f47f01"
+      }
+    },
+    "owner": "xuantien2k5",
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
